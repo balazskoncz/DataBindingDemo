@@ -1,0 +1,9 @@
+C:\BindingDemo\BindingDemo\BindingDemo\BindingDemo\bin\Debug\netstandard2.0\BindingDemo.deps.json
+C:\BindingDemo\BindingDemo\BindingDemo\BindingDemo\bin\Debug\netstandard2.0\BindingDemo.dll
+C:\BindingDemo\BindingDemo\BindingDemo\BindingDemo\bin\Debug\netstandard2.0\BindingDemo.pdb
+C:\BindingDemo\BindingDemo\BindingDemo\BindingDemo\obj\Debug\netstandard2.0\BindingDemo.csproj.CoreCompileInputs.cache
+C:\BindingDemo\BindingDemo\BindingDemo\BindingDemo\obj\Debug\netstandard2.0\BindingDemo.AssemblyInfoInputs.cache
+C:\BindingDemo\BindingDemo\BindingDemo\BindingDemo\obj\Debug\netstandard2.0\BindingDemo.AssemblyInfo.cs
+C:\BindingDemo\BindingDemo\BindingDemo\BindingDemo\obj\Debug\netstandard2.0\BindingDemo.dll
+C:\BindingDemo\BindingDemo\BindingDemo\BindingDemo\obj\Debug\netstandard2.0\BindingDemo.pdb
+C:\BindingDemo\BindingDemo\BindingDemo\BindingDemo\obj\Debug\netstandard2.0\BindingDemo.csprojAssemblyReference.cache
